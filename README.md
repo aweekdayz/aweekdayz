@@ -1,9 +1,12 @@
-# Hi, I'm Frank
+# Frank Dong
 
-I am a freshman in the University of Washington College of Engineering, currently Engineering Undeclared. I am interested in network operations, systems, and infrastructure.
+I am a freshman in the University of Washington College of Engineering, currently Engineering Undeclared, with an interest in network operations and systems.
 
-I run a personal homelab on an N100 system using Proxmox VE, iStoreOS/OpenWrt, OpenMediaVault, AdGuard Home, and Tailscale. I also build small hardware and backend prototypes. Some project code and documentation is developed with AI assistance; I focus on understanding the architecture, adapting the work, deploying it, and troubleshooting the result.
+I maintain an N100-based Proxmox and OpenWrt homelab with OpenMediaVault, AdGuard Home, Tailscale, and Linux services. I also build small hardware and backend projects.
 
-I document real deployments and lessons learned at [frankblogs.com](https://frankblogs.com/).
+## Selected Projects
 
-Current focus: network troubleshooting, Linux/OpenWrt, reliable operations, and clear technical documentation.
+- [Homelab and Network Lab](https://github.com/aweekdayz/homelab-network-lab)
+- [Raspberry Pi NFC Music Player](https://github.com/aweekdayz/pn532-nfc-hat)
+
+Technical notes: [frankblogs.com](https://frankblogs.com/)
